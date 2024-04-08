@@ -82,14 +82,34 @@
 
 ## Мои работы
 
-### Два учебных проекта, выполненных в рамках программы "Верстальщик" на Хекслете
+### [GoGames](https://unhappymonday.github.io/GoGames/)
+
+Самостоятельная учебная работа
 
 ![HTML](https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5&logoColor=red)
 ![CSS](https://img.shields.io/badge/css-black?style=for-the-badge&logo=css3&logoColor=blue)
+![SASS](https://img.shields.io/badge/SASS-black?style=for-the-badge&logo=sass&logoColor=red)
+![JS](https://img.shields.io/badge/Java%20Script-black?style=for-the-badge&logo=javascript&logoColor=yellow)
+![Gulp](https://img.shields.io/badge/GULP-black?style=for-the-badge&logo=gulp&logoColor=red)
 
-* Когнитивные искажения - одностраничный лендинг без адаптива.
-* MusicBox - двухстраничный сайт. Вёрстка под мобильную и десктопную версию.
+Что реализовано:
+* Отзывчивая вёрстка под любое устройство
+* Svg-анимация
 
+### [GoSurf](https://unhappymonday.github.io/GoSurf/)
+
+Самостоятельная учебная работа
+
+![HTML](https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5&logoColor=red)
+![CSS](https://img.shields.io/badge/css-black?style=for-the-badge&logo=css3&logoColor=blue)
+![SASS](https://img.shields.io/badge/SASS-black?style=for-the-badge&logo=sass&logoColor=red)
+![JS](https://img.shields.io/badge/Java%20Script-black?style=for-the-badge&logo=javascript&logoColor=yellow)
+![Gulp](https://img.shields.io/badge/GULP-black?style=for-the-badge&logo=gulp&logoColor=red)
+
+Что реализовано:
+* Отзывчивая вёрстка под любое устройство
+* Нестандартное позиционирование элементов
+* Работа с датой и счетчиками
 
 ### [Круговорот знаний](https://krugovorotznaniya.ru/index.html)
 
@@ -109,36 +129,13 @@
 * Табы
 * Pop-up
 
-
-### [GoGames](https://unhappymonday.github.io/GoGames/)
-
-Самостоятельная учебная работа
+### Два учебных проекта, выполненны в рамках программы "Верстальщик" на Хекслете
 
 ![HTML](https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5&logoColor=red)
 ![CSS](https://img.shields.io/badge/css-black?style=for-the-badge&logo=css3&logoColor=blue)
-![SASS](https://img.shields.io/badge/SASS-black?style=for-the-badge&logo=sass&logoColor=red)
-![JS](https://img.shields.io/badge/Java%20Script-black?style=for-the-badge&logo=javascript&logoColor=yellow)
-![Gulp](https://img.shields.io/badge/GULP-black?style=for-the-badge&logo=gulp&logoColor=red)
 
-Что реализовано:
-* Отзывчивая вёрстка под любое устройство
-* Svg-анимация
-
-
-### [GoSurf](https://unhappymonday.github.io/GoSurf/)
-
-Самостоятельная учебная работа
-
-![HTML](https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5&logoColor=red)
-![CSS](https://img.shields.io/badge/css-black?style=for-the-badge&logo=css3&logoColor=blue)
-![SASS](https://img.shields.io/badge/SASS-black?style=for-the-badge&logo=sass&logoColor=red)
-![JS](https://img.shields.io/badge/Java%20Script-black?style=for-the-badge&logo=javascript&logoColor=yellow)
-![Gulp](https://img.shields.io/badge/GULP-black?style=for-the-badge&logo=gulp&logoColor=red)
-
-Что реализовано:
-* Отзывчивая вёрстка под любое устройство
-* Нестандартное позиционирование элементов
-* Отображение актуальной даты
+* Когнитивные искажения - одностраничный лендинг без адаптива.
+* MusicBox - двухстраничный сайт. Вёрстка под мобильную и десктопную версию.
 
 ## Контакты
 
