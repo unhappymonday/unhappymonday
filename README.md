@@ -21,6 +21,9 @@
 ![JS](https://img.shields.io/badge/Java%20Script-black?style=for-the-badge&logo=javascript&logoColor=yellow)
 ![Gulp](https://img.shields.io/badge/GULP-black?style=for-the-badge&logo=gulp&logoColor=red)
 ![Git](https://img.shields.io/badge/GIT-black?style=for-the-badge&logo=git&logoColor=red)
+![Static Badge](https://img.shields.io/badge/pug-black?style=for-the-badge&logo=pug)
+
+
 
 ## Иснтрументы
 ![Figma](https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma&logoColor=white)
@@ -33,6 +36,7 @@
 ![Static Badge](https://img.shields.io/badge/numpy-python-black?style=for-the-badge&logo=numpy&color=black)
 ![Static Badge](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker&color=black)
 ![Static Badge](https://img.shields.io/badge/mysql-black?style=for-the-badge&logo=mysql&logoColor=red&color=black)
+![Static Badge](https://img.shields.io/badge/latex-black?style=for-the-badge&logo=latex)
 
 
 ## Обо мне
