@@ -88,7 +88,7 @@
 
 ## Мои работы
 
-### [GoGames](https://unhappymonday.github.io/GoGames/)
+### <a href="https://unhappymonday.github.io/GoGames/" target="_blank">GoGames</a>
 
 Самостоятельная учебная работа
 
