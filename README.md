@@ -25,7 +25,7 @@
 
 
 
-## Иснтрументы
+## Инструменты
 ![Figma](https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-black?style=for-the-badge&logo=visualstudiocode&logoColor=blue)
 
